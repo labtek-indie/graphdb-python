@@ -1,2 +1,2 @@
 # graphdb-python
-graph database - python (using neomodel and/or py2neo) 
+graph database neo4j - python (using neomodel and/or py2neo) 
